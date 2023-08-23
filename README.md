@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js, prisma, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-web123.netlify.app](https://portfolio-web123.netlify.app)
+- 👨‍💻 All of my projects are available at [https://balrammel.github.io/PORTFOLIO/](https://balrammel.github.io/PORTFOLIO/)
 
 - 💬 Ask me about **React, Next.js**
 
