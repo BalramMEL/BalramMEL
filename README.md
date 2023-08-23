@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balrammel" alt="balrammel" /></a> </p>
 
-- 🔭 I’m currently working on [Threads-clone](https://github.com/BalramMEL/Threads-Clone)
+- 🔭 I’m currently working on [Airbnb_clone](https://github.com/BalramMEL/Airbnb_clone)
 
 - 🌱 I’m currently learning **Next.js, prisma, Typescript**
 
