@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balrammel" alt="balrammel" /></a> </p>
 
-- 🔭 I’m currently working on [Airbnb_clone](https://github.com/BalramMEL/Airbnb_clone)
+- 🔭 I’m currently working on [DigiMarketplace](https://github.com/BalramMEL/DigiMarketPlace)
 
-- 🌱 I’m currently learning **Next.js, prisma, Typescript**
+- 🌱 I’m currently learning **Next.js,tRPC, Tailwind, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://balrammel.github.io/PORTFOLIO/](https://balrammel.github.io/PORTFOLIO/)
 
