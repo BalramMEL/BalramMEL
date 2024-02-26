@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balrammel" alt="balrammel" /></a> </p>
 
-- 🔭 I’m currently working on [Cafe Management](https://github.com/BalramMEL/Cafe-Management-System)
+- 🔭 I’m currently working on [Cafe Management system](https://github.com/BalramMEL/Cafe-Management-System)
 
 - 🌱 I’m currently learning **Next.js,tRPC, Tailwind, Typescript**
 
