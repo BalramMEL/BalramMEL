@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balrammel" alt="balrammel" /></a> </p>
 
-- 🔭 I’m currently working on [Cafe Management system](https://github.com/BalramMEL/Cafe-Management-System)
-
-- 🌱 I’m currently learning **Next.js,tRPC, Tailwind, Typescript**
+- 🔭 I’m currently working as A Freelancer.
+- 🌱 I’m currently learning **Webgl, Three.js, React-Three-Fiber**
 
 - 👨‍💻 All of my projects are available at [https://balrammel.github.io/PORTFOLIO/](https://balrammel.github.io/PORTFOLIO/)
 
